@@ -28,3 +28,9 @@ The dashboard provides a visual overview of smoking habits and related health in
 **Gulara Gulmammadova**
 
 [LinkedIn](https://www.linkedin.com/in/gülarəgülməmmədova/)
+
+## Credits
+This project was developed for learning purposes,
+based on the following YouTube tutorial:
+
+https://youtu.be/OgDq5GfUVrk
